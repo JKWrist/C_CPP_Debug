@@ -1,0 +1,6 @@
+使用memwatch进行内存调试
+
+这是一个内存错误检测工具，
+可以检测double-free，unfreed memory，溢出和向下溢出
+
+之后会生成一个记录文件memwatch.log
